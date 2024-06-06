@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Dashboard"
+        android:id="@+id/dashboard"
+        android:icon="@drawable/navbar_dashboard"/>
+    <item android:title="History"
+        android:id="@+id/history"
+        android:icon="@drawable/navbar_history"/>
+    <item android:title="Laundry"
+        android:id="@+id/booking_list"
+        android:icon="@drawable/navbar_bookinglist"/>
+    <item android:title="Menu"
+        android:id="@+id/menu"
+        android:icon="@drawable/navbar_menu"/>
+</menu>

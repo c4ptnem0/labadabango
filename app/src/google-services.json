@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "812178636326",
+    "firebase_url": "https://labadabango-c1261-default-rtdb.firebaseio.com",
+    "project_id": "labadabango-c1261",
+    "storage_bucket": "labadabango-c1261.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:812178636326:android:65a52f2bc22848dfcd70e7",
+        "android_client_info": {
+          "package_name": "com.example.labadabango"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "812178636326-p1ll82rtgche129b6r9md0vkrdbl1qo1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.labadabango",
+            "certificate_hash": "7bd7a8080bbf5a4c47b3b070a79e1b27b78c5d5c"
+          }
+        },
+        {
+          "client_id": "812178636326-b2hdhmd90pi8ssf2ruoohj30k95538lu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpvysGIJD9klHQ8ZiTj_xciAKpLpstB7w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "812178636326-b2hdhmd90pi8ssf2ruoohj30k95538lu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
